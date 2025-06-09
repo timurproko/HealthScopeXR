@@ -1,0 +1,17 @@
+{
+    "name": "Atomic.Networking.Elements",
+    "rootNamespace": "Atomic.Networking.Elements",
+    "references": [
+        "Atomic.Elements",
+        "Atomic.Networking.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

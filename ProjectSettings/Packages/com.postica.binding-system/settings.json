@@ -1,0 +1,15 @@
+{
+    "autoRegisterConverters": true,
+    "autoRegisterModifiers": true,
+    "autoRegisterProviders": true,
+    "autoConvertObjects": false,
+    "maxBindPathDepth": 7,
+    "showTargetsReplacement": true,
+    "showProxyBindings": false,
+    "showLastUsedSources": true,
+    "showLastUsedPins": true,
+    "enableRefactoring": true,
+    "preferRenamingAutoFix": true,
+    "enableUnityClassesRefactoring": false,
+    "addChildrenToDependenciesSearch": true
+}

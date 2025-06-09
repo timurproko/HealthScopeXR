@@ -1,0 +1,27 @@
+{
+    "name": "Atomic.Networking.Elements.Tests",
+    "rootNamespace": "Atomic.Networking.Elements",
+    "references": [
+        "Atomic.Elements",
+        "Atomic.Networking.Core",
+        "Atomic.Networking.Elements",
+        "Atomic.Networking.Core.Tests"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Fusion.Common.dll",
+        "Fusion.Runtime.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

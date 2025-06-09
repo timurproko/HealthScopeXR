@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adb9c12a8c6c949f7af83a3d238359d0, type: 3}
+  m_Name: vFolders Data
+  m_EditorClassIdentifier: 
+  folderDatas_byGuid:
+    keys:
+    - 09511582dcaf08c43aa6541c224e68dc
+    - 65c18d699fcadad459bc3e16558c2bd2
+    - 3541fd3b805fe704ca856a09bf9e6f22
+    - 709f11a7f3c4041caa4ef136ea32d874
+    - a856d0367f6e52543bb587b44e3ad591
+    - 9c53962885c2c4f449125a979d6ad240
+    - 0b76e5e6b2902b44c9f04d5b18c9e792
+    - 634bdb0f4564dbb409ca0a9ea84cf213
+    - 5d032ec4724a4174991cdcfd2396552e
+    - fbc38856720a4c040af2f16120e388a7
+    - 260fd61c23db82944aa57069bef2a472
+    - 2ef3b848fdc0e3e45891f66b6d0937af
+    - 6daefee0228763845a156dbfc9ccc895
+    - e2e18adab8e44c80bba641bfb721ce37
+    - 10f4e50d9bfabc445920e166b5409b8d
+    - d539468f34197574d9f4b5b80c751ba0
+    - e283e297f614ed94a9461fcaeed97c41
+    - 70629bfa436dcad43a2d49a3bb615b70
+    - 475b5894dd556ef4eb62830e74bfba69
+    - 3a38656554ab60843b9642231d2aec4c
+    - 00cf37756c1628c4fad0f539e020c250
+    values:
+    - iconNameOrGuid: sv_icon_dot3_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot5_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot5_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot1_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot1_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: SceneAsset Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot1_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: Prefab Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot1_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot1_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot1_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot7_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot0_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: cs Script Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: sv_icon_dot1_pix16_gizmo
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: PrefabModel Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: Texture Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: AudioSource Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: Shader Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: Material Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: Rigidbody Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+  bookmarks:
+  - guid: e2e18adab8e44c80bba641bfb721ce37
+  - guid: 9c53962885c2c4f449125a979d6ad240
+  - guid: 09511582dcaf08c43aa6541c224e68dc

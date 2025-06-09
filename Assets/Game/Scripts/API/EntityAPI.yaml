@@ -1,0 +1,36 @@
+header: EntityAPI
+entityType: IEntity
+aggressiveInlining: true
+unsafeAccess: true
+
+namespace: Game
+className: EntityAPI
+directory: Assets/Game/Scripts/API
+ 
+imports:
+- UnityEngine
+- UnityEngine.UI
+- Atomic.Entities
+- Atomic.Elements
+- Shapes
+- Oculus.Interaction
+
+tags:
+- Player
+
+values:
+- Transform: Transform
+- TriggerReceiver: TriggerEventReceiver
+- IsDebug: bool
+- IsCaptured: bool
+- IsAIWorking: bool
+- Text: Text
+- FinishedEvent: Atomic.Elements.IEvent
+- StartedEvent: Atomic.Elements.IEvent
+- Description: Text
+- Counter: Disc
+- ButtonCapture: InteractableUnityEventWrapper
+- ButtonFilter: InteractableUnityEventWrapper
+- ButtonAI: InteractableUnityEventWrapper
+- AudioSource: AudioSource
+- Snapshot: Texture2D
