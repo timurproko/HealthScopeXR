@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 62e24dfd9b499174bba82ebbfa9f5105
+labels:
+- Sample
+- Layers
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/04 Layers/03 Facial Expressions/AnimancerHumanoid-Face-Neutral.anim
+  uploadId: 759818

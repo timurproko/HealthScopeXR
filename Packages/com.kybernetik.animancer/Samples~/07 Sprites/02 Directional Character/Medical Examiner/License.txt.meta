@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5d5f5e55e2fcf4e489186c9093661ede
+labels:
+- CC0
+- ChasersGaming
+- Documentation
+- Sample
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/07 Sprites/02 Directional
+    Character/Medical Examiner/License.txt
+  uploadId: 759818

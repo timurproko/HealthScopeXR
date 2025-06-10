@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84aeb2f157384af41ae2287418190b37
+labels:
+- Sample
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/Kybernetik.Animancer.Samples.asmdef
+  uploadId: 759818

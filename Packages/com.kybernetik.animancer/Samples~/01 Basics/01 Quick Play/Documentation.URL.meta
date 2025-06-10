@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 24769847b5734a24f9106589bf6bf3bc
+labels:
+- Documentation
+- Sample
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/01 Basics/01 Quick Play/Documentation.URL
+  uploadId: 759818

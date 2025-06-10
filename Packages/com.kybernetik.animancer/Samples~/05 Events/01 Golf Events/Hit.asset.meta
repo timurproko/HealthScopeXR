@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b24330cd394d210409891ed041318b8a
+labels:
+- AnimationEvent
+- Sample
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/05 Events/01 Golf Events/Hit.asset
+  uploadId: 759818

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7e98091d1d79d6d45b09d33b2c4bd43b
+labels:
+- CC0
+- Documentation
+- Sample
+- MitchFeatherston
+- OpenGameArt
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/Art/Stone/License.txt
+  uploadId: 759818

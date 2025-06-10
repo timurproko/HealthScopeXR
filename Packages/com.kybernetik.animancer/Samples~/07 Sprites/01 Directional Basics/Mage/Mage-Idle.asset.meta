@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9f9863a6e4fddbb4cb79c273d93f0b99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/07 Sprites/01 Directional
+    Basics/Mage/Mage-Idle.asset
+  uploadId: 759818

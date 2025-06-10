@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4a3ef06791eb10d47bfbd6fc2f3c92af
+labels:
+- Sample
+- IK
+- InverseKinematics
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/09 Inverse Kinematics/01
+    Puppet/IKPuppetLookTarget.cs
+  uploadId: 759818

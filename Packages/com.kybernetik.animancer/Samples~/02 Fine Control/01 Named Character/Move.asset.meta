@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c38e59d9ed5bf434d85633f5c2d67c40
+labels:
+- Sample
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/02 Fine Control/01 Named
+    Character/Move.asset
+  uploadId: 759818

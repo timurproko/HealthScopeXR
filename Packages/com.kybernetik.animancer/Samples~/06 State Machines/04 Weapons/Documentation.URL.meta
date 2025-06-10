@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4f8a06db5f80c254ca2b6fc63ea67657
+labels:
+- Documentation
+- Sample
+- FSM
+- FiniteStateMachine
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/06 State Machines/04 Weapons/Documentation.URL
+  uploadId: 759818

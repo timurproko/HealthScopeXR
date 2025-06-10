@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5d3d89677fe647f4a8ffeefafd5a5382
+labels:
+- Sample
+- FSM
+- FiniteStateMachine
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/06 State Machines/01 Characters/Characters.unity
+  uploadId: 759818

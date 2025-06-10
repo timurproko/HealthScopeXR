@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1575af16c29763949bb73b55f80a3ab4
+labels:
+- Documentation
+- Sample
+- FSM
+- FiniteStateMachine
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/06 State Machines/01 Characters/Documentation.URL
+  uploadId: 759818

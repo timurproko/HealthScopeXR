@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7e9feb5075bf804688ae73e63708578
+labels:
+- CC0
+- ChasersGaming
+- Sample
+- Pirate
+- Sprite
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293522
+  packageName: Animancer Pro v8
+  packageVersion: 8.1.1
+  assetPath: Packages/com.kybernetik.animancer/Samples~/07 Sprites/02 Directional
+    Character/Pirate/Pirate-Walk.asset
+  uploadId: 759818
