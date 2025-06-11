@@ -75,9 +75,9 @@ Material:
     m_Floats:
     - _AlbedoStrength: 1
     - _BlendStrength: 1
-    - _ClipX: 0.473
-    - _ClipXMax: 0.506
-    - _ClipXMin: 0.309
+    - _ClipX: 0
+    - _ClipXMax: 0.51
+    - _ClipXMin: 0.3
     - _ClipY: 1
     - _ClipYMax: 1
     - _ClipYMin: 0.149

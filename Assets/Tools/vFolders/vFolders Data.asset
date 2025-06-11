@@ -35,6 +35,7 @@ MonoBehaviour:
     - 475b5894dd556ef4eb62830e74bfba69
     - 3a38656554ab60843b9642231d2aec4c
     - 00cf37756c1628c4fad0f539e020c250
+    - cbe73fc043ea30e42bc844e32318d5f3
     values:
     - iconNameOrGuid: sv_icon_dot3_pix16_gizmo
       colorIndex: 0
@@ -117,6 +118,10 @@ MonoBehaviour:
       isIconRecursive: 0
       isColorRecursive: 0
     - iconNameOrGuid: Rigidbody Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: AudioSource Icon
       colorIndex: 0
       isIconRecursive: 0
       isColorRecursive: 0

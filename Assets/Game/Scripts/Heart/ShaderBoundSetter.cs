@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [ExecuteAlways]
-public class ClippingScaleSync : MonoBehaviour
+public class ShaderBoundSetter : MonoBehaviour
 {
     private static readonly int WorldScaleID = Shader.PropertyToID("_WorldScale");
     private Renderer _renderer;

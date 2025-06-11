@@ -15,6 +15,8 @@ public class SoundBehaviour : IInit
     public void Init(in IEntity entity)
     {
         _audioSource = entity.GetAudioSource();
-        _audioSource.PlayOneShot(_audioClip);
+        _audioSource.clip = _audioClip;
+        _audioSource.loop = true;
+        _audioSource.Play();
     }
 }
