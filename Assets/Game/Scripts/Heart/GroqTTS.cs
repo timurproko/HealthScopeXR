@@ -48,6 +48,11 @@ public class GroqTTS : MonoBehaviour
     [SerializeField] private PlayAIVoice selectedVoice = PlayAIVoice.Fritz_PlayAI;
     private const string responseFormat = "wav";
 
+    public void StopSpeech()
+    {
+        audioSource.Stop();
+    }
+    
     [Button]
     public async void GenerateSpeech()
     {

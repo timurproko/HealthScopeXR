@@ -20,6 +20,7 @@ public class GroqVision : MonoBehaviour
     [SerializeField] private string model = "gpt-4-vision-preview";
     
     private string endpoint = "https://api.groq.com/openai/v1/chat/completions";
+    private readonly string _request = "Describe this image in details, be specific on what is represented, don't describe in general. Focusing on anatomical structures and any notable visual features of the human heart. Use medical terminology.";
     private bool isResultAvailable;
 
     [Button]
@@ -56,7 +57,7 @@ public class GroqVision : MonoBehaviour
                     role = "user",
                     content = new object[]
                     {
-                        new { type = "text", text = _transcriber.Result },
+                        new { type = "text", text = _request },
                         new
                         {
                             type = "image_url",
@@ -91,7 +92,8 @@ public class GroqVision : MonoBehaviour
             string content = ParseResponse(json);
             Result = content;
             isResultAvailable = !string.IsNullOrEmpty(Result);
-            Debug.Log("Groq describes: " + content);
+            Debug.Log("<color=green>Groq Vision: " + content + "</color>");
+
         }
     }
 

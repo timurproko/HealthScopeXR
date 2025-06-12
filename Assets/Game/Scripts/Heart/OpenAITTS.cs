@@ -8,10 +8,10 @@ using UnityEngine;
 
 public class OpenAITTS : MonoBehaviour
 {
-    [SerializeField] private GroqVision _vision;
+    [SerializeField] private OpenAIResponder _responder;
     [SerializeField] private AudioSource _audioSource;
     
-    private OpenAIClient _api;
+    public OpenAIClient _api;
 
     private void Awake()
     {
@@ -77,9 +77,14 @@ public class OpenAITTS : MonoBehaviour
     public async UniTask GenerateSpeech()
     {
         var api = new OpenAIClient();
-        var request = new SpeechRequest(_vision.Result);
+        var request = new SpeechRequest(_responder.Result);
         var speechClip = await api.AudioEndpoint.GetSpeechAsync(request);
         _audioSource.PlayOneShot(speechClip);
         Debug.Log(speechClip);
+    }
+    
+    public void StopSpeech()
+    {
+        _audioSource.Stop();
     }
 }

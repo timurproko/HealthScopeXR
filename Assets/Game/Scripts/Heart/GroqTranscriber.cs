@@ -63,6 +63,6 @@ public class GroqTranscriber : MonoBehaviour
     {
         Result = _guidance + text;
         isTranscriptionAvailable = !string.IsNullOrEmpty(text);
-        Debug.Log("Transcription: " + text);
+        Debug.Log("<color=green>Groq Transcription: " + text + "</color>");
     }
 }
