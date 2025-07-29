@@ -1,1 +1,1 @@
-# RealityScannerXR
+# HealthScopeXR
